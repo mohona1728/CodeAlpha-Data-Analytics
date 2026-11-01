@@ -1,0 +1,16 @@
+Review_ID,Customer_Review,Sentiment
+1,This product is absolutely amazing. I love it!,Positive
+2,The quality is excellent and delivery was fast.,Positive
+3,Very happy with my purchase.,Positive
+4,Great service and wonderful experience.,Positive
+5,I am satisfied with this product.,Positive
+6,"The product is okay, nothing special.",Negative
+7,Average quality and average service.,Neutral
+8,It is neither good nor bad.,Negative
+9,The product is acceptable.,Positive
+10,"Not bad, but could be better.",Positive
+11,Very poor quality. I am disappointed.,Negative
+12,Terrible experience. I hate this product.,Negative
+13,Delivery was late and customer service was poor.,Negative
+14,The product stopped working after one day.,Negative
+15,I am extremely unhappy with this purchase.,Negative
