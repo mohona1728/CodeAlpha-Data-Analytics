@@ -137,7 +137,7 @@ This experience represents an important step in my continuous learning and profe
 
 Mohona Akter
 
-B.Sc. in Nursing Student
+B.Sc. in Nursing Student,
 Data Analytics Intern at CodeAlpha
 
 - GitHub Profile: https://github.com/mohona1728
